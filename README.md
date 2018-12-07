@@ -7,10 +7,11 @@ Programmer help system
 报文转换、数据加密、测试工具等等
 
 # 研发环境+技术框架使用
-## 环境：
+## 环境
 jdk+eclipse --集成开发环境 <br/>
 github  --源码版本管理，各自下载gitbash客户端(先自行百度，git用法先百度，后续我会整理) <br/>
-maven --maven项目(jar包依赖管理)
+maven --maven项目(jar包依赖管理)<br/>
+mysql --数据库(可再用到数据库时再安装)<br/>
 
 ## 技术框架
 前端: vue + iview <br/>
@@ -18,3 +19,6 @@ maven --maven项目(jar包依赖管理)
 后端:springboot（spring+springmvc) + mybatis <br/>
 <font size=2 color=#0099ff>*容器(Ioc/DI)框架+MVC框架，数据库ORM框架*</font> <br/>
 
+## 技术参考链接
+[vue参考手册](https://cn.vuejs.org/v2/guide/)
+[iview参考手册](https://www.iviewui.com/docs/guide/install)
