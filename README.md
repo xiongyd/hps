@@ -8,13 +8,13 @@ Programmer help system
 
 # 研发环境+技术框架使用
 ## 环境：
-jdk+eclipse --集成开发环境
-github  --源码版本管理，各自下载gitbash客户端(先自行百度，git用法先百度，后续我会整理)
+jdk+eclipse --集成开发环境 <br/>
+github  --源码版本管理，各自下载gitbash客户端(先自行百度，git用法先百度，后续我会整理) <br/>
 maven --maven项目(jar包依赖管理)
 
 ## 技术框架
 前端: vue + iview 
 <font size=2 color=#0099ff>*vue(js)框架，iview(UI)框架*</font>
-后端:springboot（spring+springmvc) + mybatis
-<font size=2 color=#0099ff>*容器(Ioc/DI)框架+MVC框架，数据库ORM框架*</font>
+后端:springboot（spring+springmvc) + mybatis <br/>
+<font size=2 color=#0099ff>*容器(Ioc/DI)框架+MVC框架，数据库ORM框架*</font> <br/>
 
